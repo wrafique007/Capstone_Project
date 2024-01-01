@@ -1,1 +1,1 @@
-This repo contains the certificate from IBM
+This repo contains the IBM certificate from Coursera
