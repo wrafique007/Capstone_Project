@@ -1,1 +1,1 @@
-Thsi folder contains the datasets and SQL code for to derive insights from the datasets
+This folder contains the datasets and SQL code in Jupyter notebook to derive insights from the datasets
