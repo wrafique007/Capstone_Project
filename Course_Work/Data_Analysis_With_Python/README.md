@@ -1,1 +1,1 @@
-This folder contains datasets and code in the form of pictures to perform data analysis with python
+This folder contains dataset and code to perform data analysis with python
